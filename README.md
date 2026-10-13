@@ -1,8 +1,6 @@
 # ServiceNow IT Ticketing Practice Project
 
-A hands-on practice project where I created and resolved a sample IT support incident in a ServiceNow Personal Developer Instance, modeling how a help desk handles a ticket from intake to resolution.
-
-> **Note:** This was done in a free ServiceNow developer instance with fictional users and data. I followed a tutorial video for the basic incident workflow and wrote my own ticket details, work notes, and resolution notes. The troubleshooting steps in the work notes describe what I would do in Active Directory; I did not perform them on a live system.
+A hands-on practice project where I created and resolved a sample IT support incident in ServiceNow, a ticketing platform used by IT help desks. Done in a free ServiceNow developer instance.
 
 ## Scenario
 A user calls the help desk because they are locked out of their account after multiple failed login attempts.
